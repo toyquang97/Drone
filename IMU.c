@@ -13,13 +13,13 @@ References:
    of the GNU General Public Licenseversion 3 as published by the Free Software Foundation.
 	
    This software library is shared with puplic for educational purposes, without WARRANTY and Author is not liable for any damages caused directly
-   or indirectly by this software, read more about this on the GNU General Public License.
+   or indirectlyádsad by this software, read more about this on the GNU General Public License.
 
 */
 
 //Header files
 #include "IMU.h"
-
+ihihihihsigasdfioj
 //Library Variable
 //1- I2C Handle 
 static I2C_HandleTypeDef i2cHandler;
